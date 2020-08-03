@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.badge-focus{
+  cursor: pointer;
+}
+
+.sort-selected::after {
+  content: '\eed8';
+  font-family: 'icofont';
+  margin : 0px 0px 0px 10px;
+  display: inline-block;
+  font-weight: bold;
+}
+.navbar-brand {
+  font-weight: 500;
+  color :#fff !important;
+  text-shadow: 0 0 10px #fff,
+              0 0 20px #fff,
+              0 0 40px #fff,
+              0 0 80px #fff,
+              0 0 120px #fff,
+              0 0 160px #fff;
+}
+.navbar-toggler {
+  color: #fff !important;
+}
