@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todoappredux.github.io/static/css/main.edebd46d.chunk.css",
+    "main.js": "/todoappredux.github.io/static/js/main.b0bcb374.chunk.js",
+    "main.js.map": "/todoappredux.github.io/static/js/main.b0bcb374.chunk.js.map",
+    "runtime-main.js": "/todoappredux.github.io/static/js/runtime-main.a406f885.js",
+    "runtime-main.js.map": "/todoappredux.github.io/static/js/runtime-main.a406f885.js.map",
+    "static/css/2.627926fe.chunk.css": "/todoappredux.github.io/static/css/2.627926fe.chunk.css",
+    "static/js/2.57de34b9.chunk.js": "/todoappredux.github.io/static/js/2.57de34b9.chunk.js",
+    "static/js/2.57de34b9.chunk.js.map": "/todoappredux.github.io/static/js/2.57de34b9.chunk.js.map",
+    "index.html": "/todoappredux.github.io/index.html",
+    "precache-manifest.6ee1c524df47d72509ed9a909a876ae8.js": "/todoappredux.github.io/precache-manifest.6ee1c524df47d72509ed9a909a876ae8.js",
+    "service-worker.js": "/todoappredux.github.io/service-worker.js",
+    "static/css/2.627926fe.chunk.css.map": "/todoappredux.github.io/static/css/2.627926fe.chunk.css.map",
+    "static/css/main.edebd46d.chunk.css.map": "/todoappredux.github.io/static/css/main.edebd46d.chunk.css.map",
+    "static/js/2.57de34b9.chunk.js.LICENSE.txt": "/todoappredux.github.io/static/js/2.57de34b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a406f885.js",
+    "static/css/2.627926fe.chunk.css",
+    "static/js/2.57de34b9.chunk.js",
+    "static/css/main.edebd46d.chunk.css",
+    "static/js/main.b0bcb374.chunk.js"
+  ]
+}
